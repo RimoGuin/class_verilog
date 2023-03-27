@@ -1,0 +1,8 @@
+Function minimization:
+A) Statement: Implement Boolean function F(A, B, C, D) = Σ(0, 1, 2, 3, 4, 8, 9 , 15) 
+	using a verilog program and test the above circuit.
+
+B) Write a verilog program to design, simulate and test a combinational circuit with 
+	3-bit input as A2 A1 A0 and 3-bit output as B2 B1 B0. When the binary input is 
+	0, 1, 2 or 3, the binary output is obe greater than the output. When the binary input 
+	is 4, 5, 6 or 7, the binary output is one less than the input.
